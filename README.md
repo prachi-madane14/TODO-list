@@ -6,52 +6,54 @@ It allows users to create, manage, and track daily tasks in a clean, user-friend
 The app encourages productivity with positive, motivational microcopy and smooth interactions.
 
 2. Features
-Add New Tasks – Users can type a task in the input field and add it to the list with a single click.
+   
+ Add New Tasks – Users can type a task in the input field and add it to the list with a single click.
 
-Delete Tasks – Unwanted tasks can be removed instantly using the trash icon.
+ Delete Tasks – Unwanted tasks can be removed instantly using the trash icon.
 
-Mark as Completed – Clicking on a task toggles its completion state (with strikethrough text).
+ Mark as Completed – Clicking on a task toggles its completion state (with strikethrough text).
 
-Motivational Prompts – Displays text like “Ready to conquer your day? ✨” to inspire the user.
+ Motivational Prompts – Displays text like “Ready to conquer your day? ✨” to inspire the user.
 
-Responsive UI – Works well on different devices, keeping layout clean and centered.
+ Responsive UI – Works well on different devices, keeping layout clean and centered.
 
 
 3. User Interface Flow
 
-Screenshot 1 – Empty State
-![App Screenshot](images/Picture1.png)
+ 📸Screenshot 1 – Empty State
 
-The app is launched with no tasks.
+ ![App Screenshot](images/Picture1.png)
 
-Displays a header: "✅ My Todo List ✨" with a tagline "Organize your day, one task at a time."
+ The app is launched with no tasks.
 
-Shows a friendly input box to add tasks and a green “+ Add” button.
+ Displays a header: "✅ My Todo List ✨" with a tagline "Organize your day, one task at a time."
 
-Empty state graphic with text "No tasks yet – Add your first task above to get started!"
+ Shows a friendly input box to add tasks and a green “+ Add” button.
 
-Screenshot 2 – Task Added
+ Empty state graphic with text "No tasks yet – Add your first task above to get started!"
 
-![App Screenshot](images/Picture2.png)
+ 📸Screenshot 2 – Task Added
 
-User adds the task: "complete the aivoa task".
+ ![App Screenshot](images/Picture2.png)
 
-The task appears below the input box with a delete (🗑️) button.
+ User adds the task: "complete the aivoa task".
 
-The motivational message remains at the top.
+ The task appears below the input box with a delete (🗑️) button.
 
-Clean white card background for tasks for better readability.
+ The motivational message remains at the top.
+
+ Clean white card background for tasks for better readability.
 
 
-Screenshot 3 – Task Marked as Completed
+ 📸Screenshot 3 – Task Marked as Completed
 
-![App Screenshot](images/Picture3.png)
+ ![App Screenshot](images/Picture3.png)
 
-User clicks on the task, and it gets a strikethrough effect, showing it’s completed.
+ User clicks on the task, and it gets a strikethrough effect, showing it’s completed.
 
-The completed task remains in the list until deleted.
+ The completed task remains in the list until deleted.
 
-UI remains minimal and intuitive, keeping focus on the tasks.
+ UI remains minimal and intuitive, keeping focus on the tasks.
 
 4. Technical Details
 Frontend Framework: React.js
