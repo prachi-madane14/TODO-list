@@ -2,8 +2,8 @@
 📄 My Todo List App 
 1. Overview
 The My Todo List application is a simple yet powerful task management tool built using React.js.
- It allows users to create, manage, and track daily tasks in a clean, user-friendly interface.
- The app encourages productivity with positive, motivational microcopy and smooth interactions.
+It allows users to create, manage, and track daily tasks in a clean, user-friendly interface.
+The app encourages productivity with positive, motivational microcopy and smooth interactions.
 
 2. Features
 Add New Tasks – Users can type a task in the input field and add it to the list with a single click.
@@ -17,7 +17,8 @@ Motivational Prompts – Displays text like “Ready to conquer your day? ✨”
 Responsive UI – Works well on different devices, keeping layout clean and centered.
 
 
-3. User Interface Flow 
+3. User Interface Flow
+
 Screenshot 1 – Empty State
 ![App Screenshot](images/Picture1.png)
 
@@ -30,6 +31,7 @@ Shows a friendly input box to add tasks and a green “+ Add” button.
 Empty state graphic with text "No tasks yet – Add your first task above to get started!"
 
 Screenshot 2 – Task Added
+
 ![App Screenshot](images/Picture2.png)
 
 User adds the task: "complete the aivoa task".
@@ -42,6 +44,7 @@ Clean white card background for tasks for better readability.
 
 
 Screenshot 3 – Task Marked as Completed
+
 ![App Screenshot](images/Picture3.png)
 
 User clicks on the task, and it gets a strikethrough effect, showing it’s completed.
@@ -67,7 +70,7 @@ State Management: React useState hook for handling task data.
 
 
 
-# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
