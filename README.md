@@ -8,8 +8,7 @@
 
 🔹The app encourages productivity with positive, motivational microcopy and smooth interactions.
 
-
-3. Features
+2. Features
    
 ♦Add New Tasks – Users can type a task in the input field and add it to the list with a single click.
 
@@ -20,7 +19,6 @@
 ♦Motivational Prompts – Displays text like “Ready to conquer your day? ✨” to inspire the user.
 
 ♦Responsive UI – Works well on different devices, keeping layout clean and centered.
-
 
 3. User Interface Flow
 
